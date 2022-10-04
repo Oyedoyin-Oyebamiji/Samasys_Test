@@ -1,7 +1,7 @@
 # Samasys_Test
 Samasys is an application that records the Loan history of employees.
 Find below the Criterias I tested:
-					TEST CRITERIAS
+				- TEST CRITERIAS
 - Add Employees. 
 - View all Employees. 
 - View Individual Employee profile - with a mock list of loans for each month. 
